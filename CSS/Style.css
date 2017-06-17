@@ -13,3 +13,8 @@ ul {background-color: teal;}
 margin-right: 20px;}
 
 .linkedin img {margin-right: 20px;}
+
+nav li {
+	display: inline-block;
+	margin: 0 1em;
+}

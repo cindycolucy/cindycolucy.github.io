@@ -3,18 +3,40 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: 'Handlee', cursive;}
 
 ul {background-color: teal;}
 
-.Amok img { width: 50%; }
+nav li {
+	display: inline-block;
+	margin: 0 1em;}
 
-.Shelter img { width: 50%; }
+nav ul li a:hover{
+	color: white;
+}
 
-.Fortune img { width: 50%; }
+.email:hover{
+	color: cyan;
+}
 
-.github img {height: 20px; width: 20px;
-margin-right: 20px;}
+.Amok img { width: 50%; 
+	border-style: solid;
+    border-color: gray;
+	border-width: .5px;}
+
+.Shelter img { width: 50%;
+	border: .5px solid gray;}
+
+.Fortune img { width: 50%; 
+	border: .5px solid gray;}
+
+.github img {height: 20px; 
+	border: .5px solid gray;}
+
+.github img {margin-right: 20px;}
+
+.github:hover{
+	color: cyan;
+}
 
 .linkedin img {margin-right: 20px;}
 
-nav li {
-	display: inline-block;
-	margin: 0 1em;
+.linkedin:hover{
+	color: cyan;
 }

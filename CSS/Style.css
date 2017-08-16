@@ -7,33 +7,38 @@ nav li {
 	display: inline-block;
 	margin: 0 1em;}
 
-nav ul li a:hover{
-	color: white;}
+	nav ul li a:hover{
+		color: white;}
 
-.email:hover{
-	color: cyan;}
+		.email:hover{
+			color: cyan;}
 
-.Amok img {width: 50%;} 
-.Amok img {border: .5px solid gray;}
-.Amok img:hover {border: .5px solid cyan;}	
+			.Amok img {width: 50%;} 
+			.Amok img {border: .5px solid gray;}
+			.Amok img:hover {border: .5px solid cyan;}	
 
-.Shelter img {width: 50%;}
-.Shelter img {border: .5px solid gray;}
-.Shelter img:hover {border: .5px solid cyan;}
+			.dishmo img {width: 50%;}
+			.dishmo img {border: .5px solid gray;}
+			.dishmo img:hover {border: .5px solid cyan;}
 
-.Movie img {width: 50%;} 
-.Movie img {border: .5px solid gray;}
-.Movie img:hover {border: .5px solid cyan;}
+			.Movie img {width: 50%;} 
+			.Movie img {border: .5px solid gray;}
+			.Movie img:hover {border: .5px solid cyan;}
 
-.github img {height: 20px; 
-	border: .5px solid gray;}
+			.github img {height: 20px; 
+				border: .5px solid gray;}
 
-.github img {margin-right: 20px;}
+				.github img {margin-right: 20px;}
 
-.github:hover{
-	color: cyan;}
+				.github:hover{
+					color: cyan;}
 
-.linkedin img {margin-right: 20px;}
+					.linkedin img {margin-right: 20px;}
 
-.linkedin:hover{
-	color: cyan;}
+					.linkedin:hover{
+						color: cyan;}
+
+						.map {
+							height: 400px;
+							width: 100%;
+						}
